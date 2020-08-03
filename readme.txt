@@ -1,4 +1,4 @@
 - Kevin Zhu
 - s3486531
-- GitHub Repository URL
-- GitHub Pages URL
+- https://mystrile.github.io/My-Profile/
+- https://github.com/Mystrile/My-Profile/
